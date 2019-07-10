@@ -6,4 +6,4 @@ To build: `npm run build`
 
 Working sample on [Codesandbox](https://codesandbox.io/s/github/abiodunsulaiman694/excel-app/tree/master/)
 
-[Article to explain the code ON abiodun.dev](https://abiodun.dev/import-spreadsheets-or-excel-in-your-react-component/)
+[Article to explain the code on abiodun.dev](https://abiodun.dev/import-spreadsheets-or-excel-in-your-react-component/)
