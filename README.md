@@ -1,5 +1,7 @@
 ## An excel import app with React that allows for editing, deleting and adding rows to the imported data
 
+![Excel Import Demo](ExcelVideo.gif)
+
 To run: `npm run start`
 
 To build: `npm run build`
