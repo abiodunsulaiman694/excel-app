@@ -195,7 +195,7 @@ export default class ExcelPage extends Component {
             }}
           >
             <div style={{ display: "flex", alignItems: "center" }}>
-              <div className="page-title">Upload Farmer Data</div>
+              <div className="page-title">Upload User Data</div>
             </div>
           </Col>
           <Col span={8}>
